@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/background/bg2.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -427,7 +427,7 @@ section .container {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: rgb(235, 19, 19);
 }
 .skills .progress .skill .val {
   float: right;
@@ -440,7 +440,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #46584f;
 }
 
 /*--------------------------------------------------------------
