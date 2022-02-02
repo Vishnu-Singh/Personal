@@ -577,6 +577,29 @@ section .container {
 .resume .resume-item ul li {
   padding-bottom: 10px;
 }
+
+.resume .resume-item .project-title {
+  line-height: 18px;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 5px 15px;
+  background-color: rgba(255, 255, 255, 0.15);
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  color: #eff3e8;
+  margin: 15px 10px;
+}
+
+.resume .resume-item .project-heading {
+  line-height: 18px;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #b5b9b7;
+  margin-bottom: 10px;
+}
+
 .resume .resume-item:last-child {
   padding-bottom: 0;
 }
